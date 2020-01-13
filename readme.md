@@ -1,5 +1,9 @@
 This repo is linked to Stack Overflow question: https://stackoverflow.com/questions/59709512/why-setting-webroot-to-a-correct-folder-breaks-vs-code-debugging
 
+Prerequisites:
+- Enable sourcemaps in chrome dev tools
+- Install a vs code extension debugger for chrome
+
 # How reproduce:
 
 1. cd into the folder containing **package.json**
