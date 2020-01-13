@@ -1,4 +1,4 @@
-This repo is linked to Stack Overflow question
+This repo is linked to Stack Overflow question: https://stackoverflow.com/questions/59709512/why-setting-webroot-to-a-correct-folder-breaks-vs-code-debugging
 
 # How reproduce:
 
